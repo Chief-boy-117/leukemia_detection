@@ -1,4 +1,4 @@
-# leukemia_detection
+# Leukemia Detection using MATLAB
 MATLAB-based leukemia detection algorithm that works by applying k-means algorithm to deteect and count WBCs and RBCs
 
 ![image](https://github.com/Chief-boy-117/leukemia_detection/assets/67178769/df64145f-b639-4348-86f5-c20f58ff5a10)
